@@ -1,2 +1,4 @@
 # hello-world
-This won't likely be used much, it is just my first one
+This is my main repository
+I hope this ends up working well
+cheese shouldn't be green

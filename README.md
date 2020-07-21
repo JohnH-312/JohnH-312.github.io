@@ -1,5 +1,5 @@
 # Sites
-This is my main repository containting my website.
+This is my main repository containting my website. http://johnh-312.github.io/
 It is hosted via my free github.io account. 
 
 I'm planning on re-designing it to be more up-to date information, as well as more responsive and visually appealing. 
